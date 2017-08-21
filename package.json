@@ -1,12 +1,12 @@
 {
   "author": "Brad Daylet",
-  "name": "censorify",
+  "name": "censorify-peng",
   "version": "0.1.1",
   "description": "Censors words out of text",
   "main": "censortext",
   "repository": {
     "type": "git",
-    "url":"https://github.com/15707901327/censorings"
+    "url":"https://github.com/15707901327/censorify"
   },
   "keywords": [
     "censor",
