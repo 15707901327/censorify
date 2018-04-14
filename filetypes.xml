@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern="canvas" type="PLAIN_TEXT" />
+      <mapping pattern="canvas标签" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
