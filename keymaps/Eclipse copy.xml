@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Dart.DartStyle">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>
